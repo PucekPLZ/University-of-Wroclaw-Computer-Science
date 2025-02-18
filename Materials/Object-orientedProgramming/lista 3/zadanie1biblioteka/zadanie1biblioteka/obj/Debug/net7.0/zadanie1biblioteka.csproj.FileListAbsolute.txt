@@ -1,0 +1,12 @@
+/Users/lucjanpucelak/Desktop/po/lista 3/zadanie1biblioteka/zadanie1biblioteka/bin/Debug/net7.0/zadanie1biblioteka.deps.json
+/Users/lucjanpucelak/Desktop/po/lista 3/zadanie1biblioteka/zadanie1biblioteka/bin/Debug/net7.0/zadanie1biblioteka.dll
+/Users/lucjanpucelak/Desktop/po/lista 3/zadanie1biblioteka/zadanie1biblioteka/bin/Debug/net7.0/zadanie1biblioteka.pdb
+/Users/lucjanpucelak/Desktop/po/lista 3/zadanie1biblioteka/zadanie1biblioteka/obj/Debug/net7.0/zadanie1biblioteka.csproj.AssemblyReference.cache
+/Users/lucjanpucelak/Desktop/po/lista 3/zadanie1biblioteka/zadanie1biblioteka/obj/Debug/net7.0/zadanie1biblioteka.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucjanpucelak/Desktop/po/lista 3/zadanie1biblioteka/zadanie1biblioteka/obj/Debug/net7.0/zadanie1biblioteka.AssemblyInfoInputs.cache
+/Users/lucjanpucelak/Desktop/po/lista 3/zadanie1biblioteka/zadanie1biblioteka/obj/Debug/net7.0/zadanie1biblioteka.AssemblyInfo.cs
+/Users/lucjanpucelak/Desktop/po/lista 3/zadanie1biblioteka/zadanie1biblioteka/obj/Debug/net7.0/zadanie1biblioteka.csproj.CoreCompileInputs.cache
+/Users/lucjanpucelak/Desktop/po/lista 3/zadanie1biblioteka/zadanie1biblioteka/obj/Debug/net7.0/zadanie1biblioteka.dll
+/Users/lucjanpucelak/Desktop/po/lista 3/zadanie1biblioteka/zadanie1biblioteka/obj/Debug/net7.0/refint/zadanie1biblioteka.dll
+/Users/lucjanpucelak/Desktop/po/lista 3/zadanie1biblioteka/zadanie1biblioteka/obj/Debug/net7.0/zadanie1biblioteka.pdb
+/Users/lucjanpucelak/Desktop/po/lista 3/zadanie1biblioteka/zadanie1biblioteka/obj/Debug/net7.0/ref/zadanie1biblioteka.dll
