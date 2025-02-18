@@ -1,0 +1,15 @@
+/Users/lucjanpucelak/Desktop/po/lista 2/zadanie1/obj/Debug/net7.0/zadanie1.csproj.AssemblyReference.cache
+/Users/lucjanpucelak/Desktop/po/lista 2/zadanie1/obj/Debug/net7.0/zadanie1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucjanpucelak/Desktop/po/lista 2/zadanie1/obj/Debug/net7.0/zadanie1.AssemblyInfoInputs.cache
+/Users/lucjanpucelak/Desktop/po/lista 2/zadanie1/obj/Debug/net7.0/zadanie1.AssemblyInfo.cs
+/Users/lucjanpucelak/Desktop/po/lista 2/zadanie1/obj/Debug/net7.0/zadanie1.csproj.CoreCompileInputs.cache
+/Users/lucjanpucelak/Desktop/po/lista 2/zadanie1/bin/Debug/net7.0/zadanie1
+/Users/lucjanpucelak/Desktop/po/lista 2/zadanie1/bin/Debug/net7.0/zadanie1.deps.json
+/Users/lucjanpucelak/Desktop/po/lista 2/zadanie1/bin/Debug/net7.0/zadanie1.runtimeconfig.json
+/Users/lucjanpucelak/Desktop/po/lista 2/zadanie1/bin/Debug/net7.0/zadanie1.dll
+/Users/lucjanpucelak/Desktop/po/lista 2/zadanie1/bin/Debug/net7.0/zadanie1.pdb
+/Users/lucjanpucelak/Desktop/po/lista 2/zadanie1/obj/Debug/net7.0/zadanie1.dll
+/Users/lucjanpucelak/Desktop/po/lista 2/zadanie1/obj/Debug/net7.0/refint/zadanie1.dll
+/Users/lucjanpucelak/Desktop/po/lista 2/zadanie1/obj/Debug/net7.0/zadanie1.pdb
+/Users/lucjanpucelak/Desktop/po/lista 2/zadanie1/obj/Debug/net7.0/zadanie1.genruntimeconfig.cache
+/Users/lucjanpucelak/Desktop/po/lista 2/zadanie1/obj/Debug/net7.0/ref/zadanie1.dll
