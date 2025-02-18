@@ -1,0 +1,36 @@
+/Users/lucjanpucelak/Projects/zadanie4/zadanie4/bin/Debug/net7.0/zadanie4.deps.json
+/Users/lucjanpucelak/Projects/zadanie4/zadanie4/bin/Debug/net7.0/zadanie4.dll
+/Users/lucjanpucelak/Projects/zadanie4/zadanie4/bin/Debug/net7.0/zadanie4.pdb
+/Users/lucjanpucelak/Projects/zadanie4/zadanie4/obj/Debug/net7.0/zadanie4.csproj.AssemblyReference.cache
+/Users/lucjanpucelak/Projects/zadanie4/zadanie4/obj/Debug/net7.0/zadanie4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucjanpucelak/Projects/zadanie4/zadanie4/obj/Debug/net7.0/zadanie4.AssemblyInfoInputs.cache
+/Users/lucjanpucelak/Projects/zadanie4/zadanie4/obj/Debug/net7.0/zadanie4.AssemblyInfo.cs
+/Users/lucjanpucelak/Projects/zadanie4/zadanie4/obj/Debug/net7.0/zadanie4.csproj.CoreCompileInputs.cache
+/Users/lucjanpucelak/Projects/zadanie4/zadanie4/obj/Debug/net7.0/zadanie4.dll
+/Users/lucjanpucelak/Projects/zadanie4/zadanie4/obj/Debug/net7.0/refint/zadanie4.dll
+/Users/lucjanpucelak/Projects/zadanie4/zadanie4/obj/Debug/net7.0/zadanie4.pdb
+/Users/lucjanpucelak/Projects/zadanie4/zadanie4/obj/Debug/net7.0/ref/zadanie4.dll
+/Users/lucjanpucelak/Desktop/po/lista 3/zadanie4/bin/Debug/net7.0/zadanie4.deps.json
+/Users/lucjanpucelak/Desktop/po/lista 3/zadanie4/bin/Debug/net7.0/zadanie4.dll
+/Users/lucjanpucelak/Desktop/po/lista 3/zadanie4/bin/Debug/net7.0/zadanie4.pdb
+/Users/lucjanpucelak/Desktop/po/lista 3/zadanie4/obj/Debug/net7.0/zadanie4.csproj.AssemblyReference.cache
+/Users/lucjanpucelak/Desktop/po/lista 3/zadanie4/obj/Debug/net7.0/zadanie4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucjanpucelak/Desktop/po/lista 3/zadanie4/obj/Debug/net7.0/zadanie4.AssemblyInfoInputs.cache
+/Users/lucjanpucelak/Desktop/po/lista 3/zadanie4/obj/Debug/net7.0/zadanie4.AssemblyInfo.cs
+/Users/lucjanpucelak/Desktop/po/lista 3/zadanie4/obj/Debug/net7.0/zadanie4.csproj.CoreCompileInputs.cache
+/Users/lucjanpucelak/Desktop/po/lista 3/zadanie4/obj/Debug/net7.0/zadanie4.dll
+/Users/lucjanpucelak/Desktop/po/lista 3/zadanie4/obj/Debug/net7.0/refint/zadanie4.dll
+/Users/lucjanpucelak/Desktop/po/lista 3/zadanie4/obj/Debug/net7.0/zadanie4.pdb
+/Users/lucjanpucelak/Desktop/po/lista 3/zadanie4/obj/Debug/net7.0/ref/zadanie4.dll
+/Users/lucjanpucelak/Desktop/po/lista 3/zadanie 4 biblioteka/zadanie4/bin/Debug/net7.0/zadanie4.deps.json
+/Users/lucjanpucelak/Desktop/po/lista 3/zadanie 4 biblioteka/zadanie4/bin/Debug/net7.0/zadanie4.dll
+/Users/lucjanpucelak/Desktop/po/lista 3/zadanie 4 biblioteka/zadanie4/bin/Debug/net7.0/zadanie4.pdb
+/Users/lucjanpucelak/Desktop/po/lista 3/zadanie 4 biblioteka/zadanie4/obj/Debug/net7.0/zadanie4.csproj.AssemblyReference.cache
+/Users/lucjanpucelak/Desktop/po/lista 3/zadanie 4 biblioteka/zadanie4/obj/Debug/net7.0/zadanie4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucjanpucelak/Desktop/po/lista 3/zadanie 4 biblioteka/zadanie4/obj/Debug/net7.0/zadanie4.AssemblyInfoInputs.cache
+/Users/lucjanpucelak/Desktop/po/lista 3/zadanie 4 biblioteka/zadanie4/obj/Debug/net7.0/zadanie4.AssemblyInfo.cs
+/Users/lucjanpucelak/Desktop/po/lista 3/zadanie 4 biblioteka/zadanie4/obj/Debug/net7.0/zadanie4.csproj.CoreCompileInputs.cache
+/Users/lucjanpucelak/Desktop/po/lista 3/zadanie 4 biblioteka/zadanie4/obj/Debug/net7.0/zadanie4.dll
+/Users/lucjanpucelak/Desktop/po/lista 3/zadanie 4 biblioteka/zadanie4/obj/Debug/net7.0/refint/zadanie4.dll
+/Users/lucjanpucelak/Desktop/po/lista 3/zadanie 4 biblioteka/zadanie4/obj/Debug/net7.0/zadanie4.pdb
+/Users/lucjanpucelak/Desktop/po/lista 3/zadanie 4 biblioteka/zadanie4/obj/Debug/net7.0/ref/zadanie4.dll

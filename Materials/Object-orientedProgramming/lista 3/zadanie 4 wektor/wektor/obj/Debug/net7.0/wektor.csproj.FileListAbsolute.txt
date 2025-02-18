@@ -1,0 +1,36 @@
+/Users/lucjanpucelak/Desktop/po/lista 3/wektor/wektor/bin/Debug/net7.0/wektor
+/Users/lucjanpucelak/Desktop/po/lista 3/wektor/wektor/bin/Debug/net7.0/wektor.deps.json
+/Users/lucjanpucelak/Desktop/po/lista 3/wektor/wektor/bin/Debug/net7.0/wektor.runtimeconfig.json
+/Users/lucjanpucelak/Desktop/po/lista 3/wektor/wektor/bin/Debug/net7.0/wektor.dll
+/Users/lucjanpucelak/Desktop/po/lista 3/wektor/wektor/bin/Debug/net7.0/wektor.pdb
+/Users/lucjanpucelak/Desktop/po/lista 3/wektor/wektor/bin/Debug/net7.0/zadanie4.dll
+/Users/lucjanpucelak/Desktop/po/lista 3/wektor/wektor/bin/Debug/net7.0/zadanie4.pdb
+/Users/lucjanpucelak/Desktop/po/lista 3/wektor/wektor/obj/Debug/net7.0/wektor.csproj.AssemblyReference.cache
+/Users/lucjanpucelak/Desktop/po/lista 3/wektor/wektor/obj/Debug/net7.0/wektor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucjanpucelak/Desktop/po/lista 3/wektor/wektor/obj/Debug/net7.0/wektor.AssemblyInfoInputs.cache
+/Users/lucjanpucelak/Desktop/po/lista 3/wektor/wektor/obj/Debug/net7.0/wektor.AssemblyInfo.cs
+/Users/lucjanpucelak/Desktop/po/lista 3/wektor/wektor/obj/Debug/net7.0/wektor.csproj.CoreCompileInputs.cache
+/Users/lucjanpucelak/Desktop/po/lista 3/wektor/wektor/obj/Debug/net7.0/wektor.csproj.CopyComplete
+/Users/lucjanpucelak/Desktop/po/lista 3/wektor/wektor/obj/Debug/net7.0/wektor.dll
+/Users/lucjanpucelak/Desktop/po/lista 3/wektor/wektor/obj/Debug/net7.0/refint/wektor.dll
+/Users/lucjanpucelak/Desktop/po/lista 3/wektor/wektor/obj/Debug/net7.0/wektor.pdb
+/Users/lucjanpucelak/Desktop/po/lista 3/wektor/wektor/obj/Debug/net7.0/wektor.genruntimeconfig.cache
+/Users/lucjanpucelak/Desktop/po/lista 3/wektor/wektor/obj/Debug/net7.0/ref/wektor.dll
+/Users/lucjanpucelak/Desktop/po/lista 3/zadanie 4 wektor/wektor/bin/Debug/net7.0/wektor
+/Users/lucjanpucelak/Desktop/po/lista 3/zadanie 4 wektor/wektor/bin/Debug/net7.0/wektor.deps.json
+/Users/lucjanpucelak/Desktop/po/lista 3/zadanie 4 wektor/wektor/bin/Debug/net7.0/wektor.runtimeconfig.json
+/Users/lucjanpucelak/Desktop/po/lista 3/zadanie 4 wektor/wektor/bin/Debug/net7.0/wektor.dll
+/Users/lucjanpucelak/Desktop/po/lista 3/zadanie 4 wektor/wektor/bin/Debug/net7.0/wektor.pdb
+/Users/lucjanpucelak/Desktop/po/lista 3/zadanie 4 wektor/wektor/bin/Debug/net7.0/zadanie4.dll
+/Users/lucjanpucelak/Desktop/po/lista 3/zadanie 4 wektor/wektor/bin/Debug/net7.0/zadanie4.pdb
+/Users/lucjanpucelak/Desktop/po/lista 3/zadanie 4 wektor/wektor/obj/Debug/net7.0/wektor.csproj.AssemblyReference.cache
+/Users/lucjanpucelak/Desktop/po/lista 3/zadanie 4 wektor/wektor/obj/Debug/net7.0/wektor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucjanpucelak/Desktop/po/lista 3/zadanie 4 wektor/wektor/obj/Debug/net7.0/wektor.AssemblyInfoInputs.cache
+/Users/lucjanpucelak/Desktop/po/lista 3/zadanie 4 wektor/wektor/obj/Debug/net7.0/wektor.AssemblyInfo.cs
+/Users/lucjanpucelak/Desktop/po/lista 3/zadanie 4 wektor/wektor/obj/Debug/net7.0/wektor.csproj.CoreCompileInputs.cache
+/Users/lucjanpucelak/Desktop/po/lista 3/zadanie 4 wektor/wektor/obj/Debug/net7.0/wektor.csproj.CopyComplete
+/Users/lucjanpucelak/Desktop/po/lista 3/zadanie 4 wektor/wektor/obj/Debug/net7.0/wektor.dll
+/Users/lucjanpucelak/Desktop/po/lista 3/zadanie 4 wektor/wektor/obj/Debug/net7.0/refint/wektor.dll
+/Users/lucjanpucelak/Desktop/po/lista 3/zadanie 4 wektor/wektor/obj/Debug/net7.0/wektor.pdb
+/Users/lucjanpucelak/Desktop/po/lista 3/zadanie 4 wektor/wektor/obj/Debug/net7.0/wektor.genruntimeconfig.cache
+/Users/lucjanpucelak/Desktop/po/lista 3/zadanie 4 wektor/wektor/obj/Debug/net7.0/ref/wektor.dll
