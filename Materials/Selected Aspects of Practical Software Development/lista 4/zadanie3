@@ -1,0 +1,35 @@
+Powyższy kod odnosi się do tworzenia łańcucha prototypów w języku JavaScript 
+i jest używany do dziedziczenia właściwości i metod z jednego konstruktora do drugiego. 
+Zrozumienie różnicy między różnymi podejściami jest kluczowe do prawidłowego projektowania 
+i zarządzania prototypami obiektów. Przyjrzyjmy się każdemu z tych podejść.
+
+Worker.prototype = Object.create(Person.prototype); 
+Podejście to jest najczęściej zalecane i prawidłowe. Tworzy nowy obiekt prototypu Worker, 
+który dziedziczy właściwości i metody z prototypu Person. 
+Użycie Object.create tworzy nowy obiekt, który jest pustym obiektem, 
+ale dziedziczy właściwości i metody z obiektu Person.prototype. 
+Dzięki temu żadne zmiany dokonane na Worker.prototype nie wpłyną na Person.prototype, co jest pożądane w większości przypadków.
+
+Worker.prototype = Person.prototype; 
+To podejście jest bardziej ryzykowne, 
+ponieważ obiekt Worker.prototype będzie wskazywał bezpośrednio na ten sam obiekt co Person.prototype. 
+W rezultacie każda zmiana w Worker.prototype spowoduje również zmiany w Person.prototype. 
+To oznacza, że obiekt Person i Worker będą współużywać ten sam prototyp, 
+co może prowadzić do nieoczekiwanych efektów ubocznych i błędów w programie. 
+Podejście to nie jest zalecane, chyba że celowo chcesz, aby oba konstruktory dzieliły wspólny prototyp.
+
+Worker.prototype = new Person(); 
+To podejście tworzy nowy obiekt Worker.prototype, który jest instancją Person. 
+Oznacza to, że obiekt Worker.prototype będzie dziedziczył właściwości i metody, 
+które znajdują się w instancji Person. 
+To podejście może działać w niektórych przypadkach, ale ma pewne ograniczenia. 
+Na przykład, jeśli konstruktor Person wymaga argumentów w czasie tworzenia instancji, 
+to tworzenie instancji Person w Worker.prototype może prowadzić do nieoczekiwanych efektów. 
+Ponadto, zmiany w prototypie Person nie będą automatycznie odzwierciedlone w Worker.prototype. 
+To podejście nie jest zalecane, chyba że masz jasne i uzasadnione powody do jego użycia.
+
+Podsumowując, pierwsze podejście Worker.prototype = Object.create(Person.prototype); 
+jest zazwyczaj najbezpieczniejsze i zalecane, 
+aby uniknąć nieoczekiwanych problemów związanych z dziedziczeniem prototypów. 
+Pozostałe dwa podejścia mają swoje zastosowania w określonych sytuacjach, 
+ale wymagają ostrożności i zrozumienia ich konsekwencji.
